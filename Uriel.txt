@@ -1,1 +1,77 @@
-Todo insecto siono raza
+CLI (Interfaz de Línea de Comando): Una forma de interactuar con una computadora o programa ingresando comandos de texto en lugar de usar una interfaz gráfica.
+
+GUI (Interfaz Gráfica de Usuario): Un entorno de usuario que utiliza elementos visuales como ventanas, botones y menús para interactuar con programas y sistemas en lugar de texto.
+
+Anidación: La práctica de colocar elementos o estructuras dentro de otros elementos o estructuras similares, como colocar un bucle dentro de otro bucle en la programación.
+
+git --version: Un comando que muestra la versión de Git instalada en una computadora.
+
+git help: Un comando para obtener información de ayuda sobre cómo usar Git y sus comandos.
+
+Framework: Una estructura o conjunto de herramientas que facilita el desarrollo de aplicaciones al proporcionar una base sólida y componentes predefinidos.
+
+Footer: La sección inferior de una página web que a menudo contiene información de contacto, enlaces útiles u otros datos.
+
+Operador Ternario: Un operador de programación que permite tomar decisiones basadas en una condición, generalmente en una sola línea de código.
+
+Switch: Una estructura de control en programación que permite seleccionar una acción a ejecutar entre muchas opciones, similar a una serie de "if" y "else if".
+
+If: Una estructura de control que permite ejecutar un bloque de código si una condición es verdadera.
+
+Else If: Una extensión de la estructura "if" que permite verificar múltiples condiciones.
+
+Datos Primitivos: Tipos de datos básicos en programación, como números, cadenas, booleanos y valores nulos.
+
+Operadores de Igualdad e Igualdad Estricta: Operadores utilizados para comparar valores en JavaScript, donde la igualdad estricta verifica también el tipo de dato.
+
+Manipulación del DOM: La capacidad de cambiar la estructura y el contenido de una página web utilizando JavaScript.
+
+Rejects: Puede ser un error tipográfico. Si te refieres a "Promesas Rechazadas," son promesas que no se cumplieron correctamente debido a un error.
+
+Slice / Splice: Métodos en JavaScript para trabajar con arreglos. slice crea una copia de parte de un arreglo, mientras que splice modifica el arreglo original al agregar o eliminar elementos.
+
+Arreglos .map: Un método de arreglo en JavaScript que permite aplicar una función a cada elemento del arreglo y crear un nuevo arreglo con los resultados.
+
+forEach: Un método de arreglo que itera sobre cada elemento y ejecuta una función proporcionada.
+
+Sort: Un método de arreglo que ordena los elementos de un arreglo alfabéticamente o numéricamente.
+
+Stream Template: Puede ser un error tipográfico. Si te refieres a "Template Strings," son cadenas de texto en JavaScript que permiten incrustar variables dentro de ellas.
+
+Wireframes (Baja, Media y Alta Fidelidad): Representaciones visuales de una interfaz de usuario que van desde bocetos simples hasta diseños detallados, utilizados en diseño de sitios web y aplicaciones.
+
+Tipos de Nodos en el DOM: Elementos, atributos, texto y otros componentes que componen la estructura de un documento HTML en el Modelo de Objetos del Documento (DOM).
+
+Objetos JSON: Objetos JavaScript en formato JSON (JavaScript Object Notation), comúnmente utilizado para el intercambio de datos.
+
+POO (Programación Orientada a Objetos): Un paradigma de programación que utiliza objetos y clases para modelar y organizar el código.
+
+Request Body: Los datos enviados al servidor HTTP como parte de una solicitud, comúnmente en formato JSON o XML.
+
+localStorage: Un mecanismo de almacenamiento en el navegador web que permite almacenar datos de manera persistente en el dispositivo del usuario.
+
+Constructor: Una función en programación que se utiliza para crear objetos de una clase en la programación orientada a objetos.
+
+Herencia: Un concepto en programación orientada a objetos donde una clase (subclase) puede heredar propiedades y métodos de otra clase (superclase).
+
+Funciones Regex: Funciones que se utilizan para trabajar con expresiones regulares, que son patrones utilizados para buscar y manipular texto.
+
+Arreglos (Arrays): Estructuras de datos que almacenan una colección ordenada de elementos.
+
+Promesas: Objetos en JavaScript que representan un valor que puede estar disponible en el futuro, ya sea correctamente resuelto o rechazado.
+
+Fetch: Una función en JavaScript que se utiliza para realizar solicitudes HTTP a servidores web y obtener datos.
+
+Parse: La acción de convertir una cadena de texto en un tipo de dato específico, como convertir una cadena JSON en un objeto JavaScript.
+
+Full Stack - Front End - Back End: Términos que describen diferentes roles y responsabilidades en el desarrollo de aplicaciones web, donde "Full Stack" implica trabajar tanto en el lado del cliente como en el servidor.
+
+DevOps: Una cultura y conjunto de prácticas que combina desarrollo de software (Dev) y operaciones de TI (Ops) para mejorar la entrega y el mantenimiento de aplicaciones.
+
+Cloud - SQL - Base de Datos: Conceptos relacionados con la computación en la nube, bases de datos relacionales (SQL) y el almacenamiento y acceso de datos.
+
+Redes: El estudio y la práctica de la comunicación de datos y recursos entre dispositivos y sistemas a través de redes.
+
+Emmet Plugin: Una herramienta utilizada en editores de código para acelerar la escritura de código HTML y CSS.
+
+Ciclos (for, while, do while): Estructuras de control en programación que permiten la repetición de una serie de acciones.
